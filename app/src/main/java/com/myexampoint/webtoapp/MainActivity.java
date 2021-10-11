@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
     String ShowOrHideWebViewInitialUse = "show";
     private WebView webview ;
     private ProgressBar spinner;
-    String myurl = "https://rk996331.github.io/web-to-app/"; //Change this  to your website hostname
+    String myurl = "https://scratch.mit.edu/projects/575995931/"; //Change this  to your website hostname
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
